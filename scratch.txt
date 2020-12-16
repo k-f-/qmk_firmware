@@ -1,0 +1,6 @@
+config.h
+#define TAPPING_TOGGLE 2
+#define AUTO_SHIFT_TIMEOUT 175
+
+rules.mk
+AUTO_SHIFT_ENABLE = yes
