@@ -1,4 +1,4 @@
-/* Copyright 2021 eithanshavit
+/* Copyright 2021 Afternoon Labs
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -15,13 +15,6 @@
  */
 
 #pragma once
-
-/* USB Device descriptor parameter */
-#define VENDOR_ID 0x616C
-#define PRODUCT_ID 0x0001
-#define DEVICE_VER 0x0001
-#define MANUFACTURER AfternoonLabs
-#define PRODUCT Breeze
 
 /* key matrix size */
 // Rows are doubled-up
